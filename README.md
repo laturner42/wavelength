@@ -1,6 +1,6 @@
 # Wavelength
 
-Open-source browser version of the popular game (Wavelength)[https://www.wavelength.zone/].
+Open-source browser version of the popular game [Wavelength](https://www.wavelength.zone/]).
 
 _Work in progress_
 
